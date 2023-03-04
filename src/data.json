@@ -1,0 +1,13 @@
+{"todos":[
+    {
+        "id":1,
+        "title":"Buy tickets for the movie",
+        "isChecked":false        
+    },
+    {
+        "id":2,
+        "title":"Go to the shopping for the car",
+        "isChecked":true
+    }
+
+]}
